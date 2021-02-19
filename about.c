@@ -6,6 +6,7 @@ void main()
  int b=3;
  c=a+b;
  printf("The c value is:%d",c);
+ printf("hello")
  getch();
 }
 

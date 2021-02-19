@@ -1,0 +1,3 @@
+this about is a program 
+to add 2 numbers
+and say hello
