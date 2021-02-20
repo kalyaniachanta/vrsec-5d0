@@ -7,6 +7,7 @@ void main()
  c=a+b;
  printf("The c value is:%d",c);
  printf("hello")
+ printf("Another feature added");
  getch();
 }
 
